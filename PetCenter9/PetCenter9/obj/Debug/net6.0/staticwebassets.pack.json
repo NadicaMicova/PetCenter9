@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PetCenter9.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PetCenter9.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\Image\\PetCareCenter Logo.jpg",
+      "PackagePath": "staticwebassets\\Image\\PetCareCenter Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\Image\\dog.jpg",
+      "PackagePath": "staticwebassets\\Image\\dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\04df2fc8-592a-46e2-853c-8cd7b4090180.jpg",
+      "PackagePath": "staticwebassets\\images\\04df2fc8-592a-46e2-853c-8cd7b4090180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\12409a39-759f-4346-bd99-a7c1d2b98ad0.avif",
+      "PackagePath": "staticwebassets\\images\\12409a39-759f-4346-bd99-a7c1d2b98ad0.avif"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\1587c294-e11d-4ce1-989c-5fb176bda76b.jpg",
+      "PackagePath": "staticwebassets\\images\\1587c294-e11d-4ce1-989c-5fb176bda76b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\29bec108-c722-4eaa-9bc5-f66ed0ab5868.jpg",
+      "PackagePath": "staticwebassets\\images\\29bec108-c722-4eaa-9bc5-f66ed0ab5868.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\5aee4529-c2e4-4fbb-b57d-f11ecfd31144.jpg",
+      "PackagePath": "staticwebassets\\images\\5aee4529-c2e4-4fbb-b57d-f11ecfd31144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\5e89e4c6-b784-4b06-bafc-a2b32ec130da.jpg",
+      "PackagePath": "staticwebassets\\images\\5e89e4c6-b784-4b06-bafc-a2b32ec130da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\6191c7b8-a672-47bc-81cd-b8fc41f5a11a.jpeg",
+      "PackagePath": "staticwebassets\\images\\6191c7b8-a672-47bc-81cd-b8fc41f5a11a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\733302e0-edc0-4620-a8ca-475a33c672f0.jpg",
+      "PackagePath": "staticwebassets\\images\\733302e0-edc0-4620-a8ca-475a33c672f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\79da058e-2e80-4969-98ac-c8aed1e3e557.jpg",
+      "PackagePath": "staticwebassets\\images\\79da058e-2e80-4969-98ac-c8aed1e3e557.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\997fc3af-2b82-4eb4-8b7d-56389800e564.jpg",
+      "PackagePath": "staticwebassets\\images\\997fc3af-2b82-4eb4-8b7d-56389800e564.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\a4da37a7-ce03-440b-b0cf-ef4c4406ff7f.jpg",
+      "PackagePath": "staticwebassets\\images\\a4da37a7-ce03-440b-b0cf-ef4c4406ff7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\b972ec4e-fe2b-4606-97e4-c876ff593a63.jpg",
+      "PackagePath": "staticwebassets\\images\\b972ec4e-fe2b-4606-97e4-c876ff593a63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\be01f60f-a0e7-4c9a-82d2-bed7de6976d2.avif",
+      "PackagePath": "staticwebassets\\images\\be01f60f-a0e7-4c9a-82d2-bed7de6976d2.avif"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\cfa865e3-eb0e-4480-8b2c-1b1bece5a099.jpg",
+      "PackagePath": "staticwebassets\\images\\cfa865e3-eb0e-4480-8b2c-1b1bece5a099.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\ece80fe5-c48f-4161-a316-30a4d39583ba.jpg",
+      "PackagePath": "staticwebassets\\images\\ece80fe5-c48f-4161-a316-30a4d39583ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\f713b8d5-230b-4323-9cdd-082c4b1b0c36.jpg",
+      "PackagePath": "staticwebassets\\images\\f713b8d5-230b-4323-9cdd-082c4b1b0c36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\f7750bec-1a6a-4f56-a3cc-664a4e237a0a.jpeg",
+      "PackagePath": "staticwebassets\\images\\f7750bec-1a6a-4f56-a3cc-664a4e237a0a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\images\\f93037ac-6476-43e1-bc66-9844acef7c84.avif",
+      "PackagePath": "staticwebassets\\images\\f93037ac-6476-43e1-bc66-9844acef7c84.avif"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\01e7c78e-c109-4cd0-bd48-c0390aa349b9.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\01e7c78e-c109-4cd0-bd48-c0390aa349b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\24a90b88-8613-4511-9d9a-88861007f833.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\24a90b88-8613-4511-9d9a-88861007f833.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\5933500a-01d2-48c3-b9ea-4f9a1d4901f0.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\5933500a-01d2-48c3-b9ea-4f9a1d4901f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\609145dd-4f9c-4035-94e2-f88d8266ca24.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\609145dd-4f9c-4035-94e2-f88d8266ca24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\64bea7b4-4d9f-4bb8-9e83-1a9cc54daad5.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\64bea7b4-4d9f-4bb8-9e83-1a9cc54daad5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\66c686c6-ebc2-494e-9b62-e57290f432cc.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\66c686c6-ebc2-494e-9b62-e57290f432cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\98262607-8e7b-4425-84aa-4de6bd811a8a.avif",
+      "PackagePath": "staticwebassets\\pet-images\\98262607-8e7b-4425-84aa-4de6bd811a8a.avif"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\aeabf30c-8075-4cea-ac79-4f916dc4ce38.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\aeabf30c-8075-4cea-ac79-4f916dc4ce38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\b56d0138-a19e-4be7-8841-f480107d9ddc.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\b56d0138-a19e-4be7-8841-f480107d9ddc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\b74c1772-3317-428e-b16c-c6e42fbb0d15.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\b74c1772-3317-428e-b16c-c6e42fbb0d15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\c4e22767-c552-48a1-8e60-059ca217324b.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\c4e22767-c552-48a1-8e60-059ca217324b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\cfcaf1dd-c6cb-4324-8189-d843f7be5168.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\cfcaf1dd-c6cb-4324-8189-d843f7be5168.jpg"
+    },
+    {
+      "Id": "C:\\Users\\My PC\\Desktop\\PetCenter9\\PetCenter9\\wwwroot\\pet-images\\f3b4586d-7d05-46ea-9820-1850dc72b7d5.jpg",
+      "PackagePath": "staticwebassets\\pet-images\\f3b4586d-7d05-46ea-9820-1850dc72b7d5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PetCenter9.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PetCenter9.props",
+      "PackagePath": "build\\PetCenter9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PetCenter9.props",
+      "PackagePath": "buildMultiTargeting\\PetCenter9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PetCenter9.props",
+      "PackagePath": "buildTransitive\\PetCenter9.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

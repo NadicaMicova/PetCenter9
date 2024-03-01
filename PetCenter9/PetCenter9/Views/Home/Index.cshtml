@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .container-fluid {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .text-overlay {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+    .text-overlay h1 {
+        font-size: 3rem;
+        color: white;
+        text-shadow: 2px 2px 4px #000000;
+    }
+
+    .text-overlay p {
+        font-size: 1.5rem;
+        color: white;
+        text-shadow: 2px 2px 4px #000000;
+    }
+</style>
+
+<div class="container-fluid p-0 position-relative">
+    <img src="~/Image/dog.jpg" class="img-fluid w-100 rounded" alt="Full Screen Image">
+    <div class="text-overlay">
+        <h1>Welcome to Pet Care Center</h1>
+        <p>Your trusted platform for pet care information and services</p>
+    </div>
+</div>

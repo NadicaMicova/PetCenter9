@@ -1,0 +1,74 @@
+﻿@model PetCenter9.Models.Pets
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <h3>Create Pet</h3>
+    </div>
+</div>
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <div class="card">
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="card-body form-create-height">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label class="control-label">Picture</label>
+                        <input type="file" name="petPictureFile" class="form-control" />
+                        <span asp-validation-for="PetPictureURL" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label" title="Please enter the pet's name"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter the pet's name" title="Please enter the pet's name" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Age" class="control-label" title="Please enter the pet's age"></label>
+                        <input asp-for="Age" class="form-control" placeholder="Enter the pet's age" title="Please enter the pet's age" />
+                        <span asp-validation-for="Age" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="OwnersId" class="control-label" title="Please select the pet's owner"></label>
+                        <select asp-for="OwnersId" class="form-control" asp-items="ViewBag.OwnersId" title="Please select the pet's owner"></select>
+                    </div>
+                </div>
+                <div class="form-group card-footer">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,97 @@
+﻿@model PetCenter9.Models.Owners
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <h3>Edit</h3>
+    </div>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <div class="card ">
+            <div class="card-header">
+                <h4 class="text-center">@Model.FirstName @Model.LastName</h4>
+            </div>
+            <form asp-action="Edit">
+                <div class="card-body form-edit-height">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="OwnersId" />
+
+                    <div class="form-group">
+                       
+                        <label asp-for="OwnerPictureURL" class="control-label">Picture</label>
+                        <input asp-for="OwnerPictureURL" class="form-control" />
+                        <span asp-validation-for="OwnerPictureURL" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label">First name</label>
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Last name</label>
+                        <input asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Age" class="control-label"></label>
+                        <input asp-for="Age" class="form-control" />
+                        <span asp-validation-for="Age" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>                                       
+                </div>
+                <div class="form-group card-footer">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

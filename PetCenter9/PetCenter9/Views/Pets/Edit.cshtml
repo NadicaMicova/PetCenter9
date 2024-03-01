@@ -1,0 +1,148 @@
+﻿@model PetCenter9.Models.Pets
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <h3>Edit</h3>
+    </div>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <div class="card ">
+            <div class="card-header">
+                <h4 class="text-center">@Model.Name</h4>
+            </div>
+            <form asp-action="Edit">
+                <div class="card-body form-edit-height">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="PetsId" />
+                    <div class="form-group">
+                        <label asp-for="PetPictureURL" class="control-label">Picture</label>
+                        <input asp-for="PetPictureURL" class="form-control" />
+                        <span asp-validation-for="PetPictureURL" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Age" class="control-label"></label>
+                        <input asp-for="Age" class="form-control" />
+                        <span asp-validation-for="Age" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="OwnersId" class="control-label"></label>
+                        <select asp-for="OwnersId" class="form-control" asp-items="ViewBag.OwnersId"></select>
+                        <span asp-validation-for="OwnersId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Vaccine" class="control-label"></label>
+                        <select asp-for="Vaccine" class="form-control" asp-items="@ViewBag.Vaccines" multiple></select>
+                        <span asp-validation-for="Vaccine" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group card-footer">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+
+
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* 
+<h1>Edit</h1>
+
+<h4>Pets</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="PetsId" />
+            <div class="form-group">
+                <label asp-for="PetPictureURL" class="control-label"></label>
+                <input asp-for="PetPictureURL" class="form-control" />
+                <span asp-validation-for="PetPictureURL" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OwnersId" class="control-label"></label>
+                <select asp-for="OwnersId" class="form-control" asp-items="ViewBag.OwnersId"></select>
+                <span asp-validation-for="OwnersId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+ *@

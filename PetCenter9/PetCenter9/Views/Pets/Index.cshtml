@@ -1,0 +1,113 @@
+﻿@model IEnumerable<PetCenter9.Models.Pets>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card content-height">
+    <div class="card-header">
+        <div class="d-flex justify-content-between m-3">
+            <h4>Pet Member</h4>
+            <a asp-action="Create" class="btn btn-success">Create New</a>
+        </div>
+    </div>
+    <div class="card-body overflow-auto">
+        <table class="table align-middle">
+            <thead>
+                <tr>
+                    <th class="text-center">
+                        No.
+                    </th>
+                    <th class="text-center">Pet Picture</th>
+                    <th class="text-center">
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayNameFor(model => model.Age)
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayNameFor(model => model.Owners)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var count = 0;
+                }
+                @foreach (var item in Model)
+                {
+                    count++;
+                    <tr>
+                        <td class="text-center">
+                            @count
+                        </td>
+                        <td class="text-center">
+                            <img style="border-radius: 50%" src="@item.PetPictureURL" height="65" width="65" />
+                        </td>
+                        <td class="text-center">
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td class="text-center">
+                            @Html.DisplayFor(modelItem => item.Age)
+                        </td>
+                        <td class="text-center">
+                            @Html.DisplayFor(modelItem => item.Owners.Email)
+                        </td>
+                        <td class="text-end">
+                            <a asp-action="Edit" asp-route-id="@item.PetsId" class="btn btn-outline-primary">Edit & Add Vaccine</a>
+                            <a asp-action="Details" asp-route-id="@item.PetsId" class="btn btn-outline-primary">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.PetsId" class="btn btn-outline-danger">Delete</a>
+                            <a asp-controller="Vaccines" asp-action="Create" class="btn btn-outline-primary">Create Vaccine</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

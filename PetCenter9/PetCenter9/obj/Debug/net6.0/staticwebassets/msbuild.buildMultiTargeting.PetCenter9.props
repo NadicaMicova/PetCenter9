@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PetCenter9.props" />
+</Project>
